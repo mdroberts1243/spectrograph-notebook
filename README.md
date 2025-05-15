@@ -17,8 +17,8 @@ This repository contains an interactive Jupyter Notebook for modeling and analyz
 
 - `Spectrohelioscope.ipynb` — the main interactive modeling notebook
 - `README.md` — this file
-- 'Reflection_Grating_Angles.png'
-- *(optional: requirements.txt if needed)*
+- `Reflection_Grating_Angles.png`
+- `requirements.txt`
 
 ---
 
