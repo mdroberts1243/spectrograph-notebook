@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# VS Code settings and workspace state
+.vscode/
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/

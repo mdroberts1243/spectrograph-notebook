@@ -1,0 +1,5 @@
+*.ipynb merge=jupyternb
+
+*.ipynb	diff=jupyternotebook
+
+*.ipynb	merge=jupyternotebook
