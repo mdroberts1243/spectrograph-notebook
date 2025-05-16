@@ -17,3 +17,6 @@ Thumbs.db
 # Environment files
 .env
 .venv/
+
+# Ignore local environments
+venv-311/
