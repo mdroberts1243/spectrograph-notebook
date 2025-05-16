@@ -30,9 +30,13 @@ You have two options:
 
 No installation needed. Just click:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdroberts1243/spectrograph-notebook/blob/main/Spectrohelioscope.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/mdroberts1243/spectrograph-notebook/blob/main/Spectrohelioscope_colab.ipynb)
 ---
+
+## 💻 Local Version
+
+For VS Code or Jupyter, use [`Spectrohelioscope_local.ipynb`](Spectrohelioscope_local.ipynb) to avoid kernel crashes.
 
 ### 💻 **Run Locally (Advanced Users)**
 
